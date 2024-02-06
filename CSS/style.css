@@ -1,0 +1,85 @@
+
+button.order {
+
+    cursor: pointer;
+    background-color: #046aaa; /* blue */
+    text-decoration: none;
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 15px 32px;
+    border-radius: 36px;
+    text-decoration: solid;
+    margin: auto;
+
+    font-size: 16px;
+  }
+  h1.h1 {
+    color: rgb(27, 20, 3);
+    text-align: center;
+    font-family: cursive;
+    font-size: 6rem;
+    margin: 0;
+    padding: 20px;
+  }
+  p.welcome {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: medium;
+    font-family: cursive;
+    font-size: 4rem;
+  }
+  h2.baristas {
+    color: rgb(171, 96, 4);
+    text-align: center;
+    font-family: cursive;
+    font-size: 3rem;
+  }
+  img.baristaman {
+    width: 200px;
+    border-radius: 100px;
+    margin-right: 5%;
+    margin-left: 5%;
+    padding: 20px;
+  }
+  img.nate {
+    width: 200px;
+    border-radius: 100px;
+    margin-right: 5%;
+    padding: 20px;
+  }
+  img.mom {
+    height: 200;
+    width: 200px;
+    border-radius: 100px;
+    margin-right: 5%;
+    padding: 20px;
+  }
+  img.kraze {
+   height: fit-content;
+    width: 219px;
+    border-radius: 100px;
+    padding: 20px;
+  }
+ 
+  h3.h3 {
+    text-align: center;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  }
+
+  body.body {
+    background-color: rgb(237, 202, 113);
+  }
+  img.coffeecup {
+    height: 301px;
+    width: 203px;
+    border-radius: 73px;
+    padding: 17px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  nav.navigation_main_the_coffest_cup{
+    font-size: 2rem;
+  }
+  
+  

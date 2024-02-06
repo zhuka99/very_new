@@ -1,0 +1,88 @@
+body.body{
+    background-color: darkgray;
+    min-height: 200vh;
+}
+h1.h1landingpage{
+    text-align: center;
+    padding: 0%;
+}
+.introremarks{
+    text-align: center;
+    font-size: 4rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+div.button{
+   text-align: center;
+}
+a.navigation1:hover:hover{color:#0affe6;}
+a.navigation1{
+    font-size: 2rem;
+    background-color: #a33c22;
+    color: black;
+}
+
+
+h1.header1{
+    color: #0affe6;
+    border-color: black;
+    background-color: #512e25;
+    border-style: solid;
+    border-radius: 20px;
+    width: 200px;
+    text-align: center;
+    margin: auto;
+    
+    
+}
+img.arms{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   height: 10%;
+   width: 10%; 
+   align-items: center;
+}
+h2.header2{
+    color:blue;
+    text-align: center; 
+    text-decoration: none;
+}
+h2.header2:hover{
+    color: #512e25;
+}
+p.blogdescriptions{
+    text-align: center;
+    font-size:2rem;
+}
+section.columns{
+    margin-top: 20px;
+    columns: 4 300px;
+    column-rule: 3px solid black;
+    margin-left: 100px;
+}
+section.meltdowns{
+    margin-top: 0px;
+}
+ul.BP{
+    text-align: center;
+   list-style-type: none;
+   text-decoration: none;
+   font-size: 2rem;
+   margin-top: 0;
+}
+:hover:any-link{
+    color: #0affe6;
+} 
+.BPC {
+    color: green;
+    font-size: large;
+    font-weight: bold;
+    
+}
+h1.H1BP { 
+ text-align: center;
+}
+h1.blogtitle{
+    text-align: center;
+}
